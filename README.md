@@ -1,2 +1,6 @@
 # BatailleNavale
-Ce programme est subdivisé en deux parties :  Une application console Une application Graphique
+Ce programme est subdivisé en deux parties :  
+<br>
+■ Une application console 
+<br>
+■ Une application Graphique
